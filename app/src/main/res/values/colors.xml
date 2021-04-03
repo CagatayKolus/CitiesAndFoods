@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d81b60</color>
+    <color name="colorPrimaryLight">#ff5c8d</color>
+    <color name="colorPrimaryDark">#a00037</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black80">#CC000000</color>
+    <color name="grey">#DDDDDD</color>
+
+    <color name="connectivity_success">#44A348</color>
+    <color name="connectivity_fail">#D33020</color>
+</resources>

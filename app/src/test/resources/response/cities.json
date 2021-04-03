@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyo",
+    "image": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/01/a0001379/img/basic/a0001379_main.jpg",
+    "description": "Tokyo officially Tokyo Metropolis (東京都, Tōkyō-to), is the de facto capital and most populous prefecture of Japan"
+  },
+  {
+    "name": "Osaka",
+    "image": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/20/00/a2000099/img/basic/a2000099_main.jpg",
+    "description": "Osaka is a designated city in the Kansai region of Honshu in Japan."
+  },
+  {
+    "name": "Nagoya",
+    "image": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2019/02/nagoya-city-1024x684.jpg",
+    "description": "Nagoya (名古屋市, Nagoya-shi) is the largest city in the Chūbu region of Japan"
+  }
+]

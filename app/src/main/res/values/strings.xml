@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cities and Foods</string>
+
+    <string name="cities">Cities</string>
+    <string name="foods">Foods</string>
+    <string name="internet_connectivity_fail">No Internet Connection…</string>
+    <string name="internet_connectivity_success">Back Online!</string>
+</resources>
